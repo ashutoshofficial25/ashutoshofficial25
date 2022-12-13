@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on JavaScript, NodeJS, ReactJS
-- 🌱 I’m currently learning BED
+-  I’m currently working on JavaScript, NodeJS, ReactJS
+-  I’m currently learning DSA .
+-  Always trying to improve skills by practicing. 
 
 
 <!--
