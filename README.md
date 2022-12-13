@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Ashutosh's github banner](./assets/ashutosh.png)](https://ashutosh-maurya.netlify.app/)
 
 -  I’m currently working on JavaScript, NodeJS, ReactJS
 -  I’m currently learning DSA .
